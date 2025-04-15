@@ -9,7 +9,7 @@
 </head>
 <body class="bg-light">
     <div class="container mt-5">
-        <h1 class="text-center mb-4">Pregled Tečajne Liste</h1>
+        <h1 class="text-center mb-4">Pregled Tečajnog lista</h1>
         <table class="table table-striped">
             <thead class="table-dark">
                 <tr>
